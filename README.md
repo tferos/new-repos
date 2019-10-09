@@ -20,3 +20,7 @@
    26  history
    28  git log --oneline
    29  history
+    touch test.html
+    touch .gitignore
+    code .gitignore
+    44  touch junk/junk.txt
